@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+p {
+    width: 500px;
+    height: 100px;
+    overflow: auto;
+}
+.parrafo2 {
+    overflow: hidden;
+}
+h1 {
+    background-color: #a52a2a;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    padding: 10px 20px 30px 40px;
+}
+h2 {
+    background-color: #6495ed;
+    margin-bottom: 2em;
+}
+h3 {
+    background-color: #006400;
+}
+.tituloa {
+    background-color: #bdb76b;
+    margin: 10px 20px 30px 40px;
+    padding-top: 1em;
+}
+.titulob {
+    background-color: #bdb76b;
+    margin: 10px 20px 30px 40px;
+    padding: 10px 5opx;
+}
